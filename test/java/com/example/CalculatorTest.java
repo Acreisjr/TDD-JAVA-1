@@ -1,4 +1,7 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import java.main.com.example.Calculator;
+
 import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
